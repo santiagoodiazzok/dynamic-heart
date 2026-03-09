@@ -134,7 +134,7 @@ export default function Home() {
           className="text-4xl md:text-5xl lg:text-6xl font-bold text-red-500 animate-in fade-in slide-in-from-bottom-8 duration-1000 tracking-tight"
           data-testid="text-title"
         >
-          ¿Quieres ser mi crush?
+          Feliz dia de la mujer HERMOSA
         </h1>
         <div className="inline-block bg-white/5 backdrop-blur-sm border border-white/10 px-6 py-3 rounded-xl animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-700 fill-mode-both">
           <p 
